@@ -1,0 +1,7 @@
+{
+	"exmls": [
+		"resource/fighter_skins/ButtonSkin.exml",
+		"resource/fighter_skins/startButtonSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

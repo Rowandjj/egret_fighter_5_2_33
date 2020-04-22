@@ -1,0 +1,17 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"https://gw.alicdn.com/tfs/TB1q.pDBYj1gK0jSZFOXXc7GpXa-512-768.png"},
+		{"name":"btnStart","type":"image","url":"https://gw.alicdn.com/tfs/TB1BGpJB8r0gK0jSZFnXXbRRXXa-177-59.png"},
+		{"name":"f1","type":"image","url":"https://gw.alicdn.com/tfs/TB1F8hDB.Y1gK0jSZFCXXcwqXXa-160-139.png"},
+		{"name":"f2","type":"image","url":"https://gw.alicdn.com/tfs/TB1SQdCB7L0gK0jSZFxXXXWHVXa-82-67.png"},
+		{"name":"b1","type":"image","url":"https://gw.alicdn.com/tfs/TB1_JdEBYj1gK0jSZFOXXc7GpXa-29-47.png"},
+		{"name":"b2","type":"image","url":"https://gw.alicdn.com/tfs/TB1.OCSdIKfxu4jSZPfXXb3dXXa-29-43.png"},
+		{"name":"boss","type":"image","url":"https://gw.alicdn.com/tfs/TB1YmpzB.H1gK0jSZSyXXXtlpXa-221-137.png"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"bgImage,btnStart,f1,f2,b1,b2,boss"}
+	]
+}
